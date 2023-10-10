@@ -5,6 +5,13 @@
 - Affiliation : Indira Gandhi Delhi Technical University for Women
 - GitHub: [AkankshaAI](https://github.com/AkankshaAI)
 
+#### Name: [Chris](https://github.com/AutomisationChris)
+
+- Place: Cottbus, Germany
+- Bio: Just a Nerd from some Hackerspace,Open Source Contributor , Web Developer
+- Affiliation : Learning 4 Life
+- GitHub: [AutomisationChris](https://github.com/AutomisationChris)
+
 
 #### Name: [Max Muller](https://github.com/MMVonnSeek)
 
